@@ -1,0 +1,78 @@
+name: qrscanner
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  eva_icons_flutter: ^3.1.0
+  flutter_screenutil: ^5.6.0
+  google_fonts: ^4.0.1
+  qr_flutter: ^4.0.0
+  flutter_native_splash: ^2.2.16
+  flutter_launcher_icons: ^0.11.0
+  flutter_barcode_scanner: ^2.0.0
+  path_provider: ^2.0.13
+  share_plus: ^2.1.0
+#flutter pub run flutter_launcher_icons
+
+flutter_icons:
+  android: "launcher_icon"
+  image_path: "assets/images/icon.png"
+  min_sdk_android: 21
+
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+#flutter pub run flutter_native_splash:create
+flutter_native_splash:
+  color: "#0CC0DF"
+  color_dark: "#0CC0DF"
+  image: assets/images/splash.png
+  # branding: assets/images/branding.png
+  # branding_mode: bottom
+
+  android_12:
+    color: "#0CC0DF"
+    color_dark: "#0CC0DF"
+    image: assets/images/splash12.png
+
+    # branding: assets/images/branding12.png
+    # branding_mode: bottom
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+
+  assets:
+    - assets/images/
+  fonts:
+    - family: poppins_bold
+      fonts:
+        - asset: assets/fontstyles/Poppins/Poppins-Bold.ttf
+    - family: poppins_regular
+      fonts:
+        - asset: assets/fontstyles/Poppins/Poppins-Regular.ttf
+    - family: poppins_semi_bold
+      fonts:
+        - asset: assets/fontstyles/Poppins/Poppins-SemiBold.ttf
+    - family: poppins_extra_bold
+      fonts:
+        - asset: assets/fontstyles/Poppins/Poppins-ExtraBold.ttf
