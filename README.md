@@ -5,12 +5,13 @@ ScanMe is a lightweight and user-friendly document scanning app built using Flut
 
 ## UI/UX Design
 Below are the images showcasing the UI/UX design of SpeciFit:
+
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f8627cdc-7234-4483-ba71-77cb8b12a305" alt="UI Screenshot 1" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0b6375f9-ae6c-4a76-a77d-c5baeb052453" alt="UI Screenshot 2" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/4ae5173a-27db-4489-a7e7-08c06e39a98a" alt="UI Screenshot 3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e1f58805-c2a7-45b0-90b8-658c947a8b9e" alt="UI Screenshot 4" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e1f58805-c2a7-45b0-90b8-658c947a8b9e" alt="UI Screenshot 1" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4ae5173a-27db-4489-a7e7-08c06e39a98a" alt="UI Screenshot 2" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0b6375f9-ae6c-4a76-a77d-c5baeb052453" alt="UI Screenshot 3" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f8627cdc-7234-4483-ba71-77cb8b12a305" alt="UI Screenshot 4" width="200"/></td>
   </tr>
 </table>
 
