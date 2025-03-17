@@ -4,7 +4,7 @@ ScanMe is a lightweight and user-friendly document scanning app built using Flut
 
 
 ## UI/UX Design
-Below are the images showcasing the UI/UX design of SpeciFit:
+Below are the images showcasing the UI/UX design of ScanMe:
 
 <table>
   <tr>
